@@ -1,0 +1,35 @@
+   0 touch /home/myfirstbashscript.sh
+   1 ls /home
+   2 cd /home
+   3 chmod +x myfirstbashscript.sh 
+   4 ls -l
+   5 nano myfirstbashscript.sh 
+   6 USER
+   7 ls
+   8 ./myfirstbashscript.sh 
+   9 nano myfirstbashscript.sh 
+  10 ./myfirstbashscript.sh 
+  11 nano myfirstbashscript.sh 
+  12 ./myfirstbashscript.sh 
+  13 nano myfirstbashscript.sh 
+  14 ./myfirstbashscript.sh 
+  15 nano myfirstbashscript.sh 
+  16 ./myfirstbashscript.sh 
+  17 nano myfirstbashscript.sh 
+  18 ./myfirstbashscript.sh 
+  19 nano myfirstbashscript.sh 
+  20 ./myfirstbashscript.sh 
+  21 nano myfirstbashscript.sh 
+  22 ./myfirstbashscript.sh 
+  23 cd
+  24 history 
+  25 nano myfirstbashscript.sh 
+  26 ls
+  27 cd /home
+  28 ls
+  29 ./myfirstbashscript.sh 
+  30 history
+  31 nano myfirstbashscript.sh 
+  32 св
+  33 cd
+  34 history > historyHW.txt
